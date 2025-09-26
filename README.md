@@ -104,7 +104,7 @@
 
 ## License
 
-此專案程式碼採用 MIT 授權。詳細內容請查閱LICENSE.md。 此專案文件採用 CC0 授權。
+本專案使用了 [CC0](https://github.com/moda-gov-tw) License
 
 ## 備註
 
